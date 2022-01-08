@@ -1,0 +1,36 @@
+
+/* Class = "UIButton"; configuration.title = "Load"; ObjectID = "2vs-rg-Q3d"; */
+"2vs-rg-Q3d.configuration.title" = "Load";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "2vs-rg-Q3d"; */
+"2vs-rg-Q3d.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Show"; ObjectID = "3wI-AV-nc9"; */
+"3wI-AV-nc9.configuration.title" = "Show";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "3wI-AV-nc9"; */
+"3wI-AV-nc9.normalTitle" = "Button";
+
+/* Class = "UITextField"; placeholder = "Enter week"; ObjectID = "IrG-pj-Fom"; */
+"IrG-pj-Fom.placeholder" = "Enter week";
+
+/* Class = "UIButton"; configuration.title = "Submit"; ObjectID = "KYU-Es-eAN"; */
+"KYU-Es-eAN.configuration.title" = "Submit";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "KYU-Es-eAN"; */
+"KYU-Es-eAN.normalTitle" = "Button";
+
+/* Class = "UITabBarItem"; title = "Standings"; ObjectID = "U0G-sX-fAT"; */
+"U0G-sX-fAT.title" = "Standings";
+
+/* Class = "UITabBarItem"; title = "Statistics"; ObjectID = "VKv-go-WYg"; */
+"VKv-go-WYg.title" = "Statistics";
+
+/* Class = "UITabBarItem"; title = "Streaks"; ObjectID = "VfB-4e-Up4"; */
+"VfB-4e-Up4.title" = "Streaks";
+
+/* Class = "UILabel"; text = "Enter your league ID"; ObjectID = "XCO-e8-FKb"; */
+"XCO-e8-FKb.text" = "Enter your league ID";
+
+/* Class = "UITabBarItem"; title = "Transactions"; ObjectID = "xGq-xM-ZjW"; */
+"xGq-xM-ZjW.title" = "Transactions";

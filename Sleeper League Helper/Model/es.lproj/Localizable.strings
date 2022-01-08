@@ -1,0 +1,14 @@
+/* 
+  Localizable.strings
+  Sleeper League Helper
+
+  Created by Ethan Park on 12/8/21.
+ // edpark@usc.edu
+  
+*/
+
+"Enter your league ID" = "Ingrese su ID de liga";
+"Submit" = "Enviar";
+"Enter week" = "Ingrese semana";
+"Update" = "Actualizar";
+"Show" = "Revelar";
